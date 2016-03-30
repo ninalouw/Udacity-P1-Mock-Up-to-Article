@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I have learnt how to create simple webpages. I have learn about headings, paragraphs, images, links,paths and parent and child elements.
+Remembering and using simple html elements has been easy.
+It is more difficult to style things using CSS. I found it particularly hard to do the layout (flex box, columns etc) as it is hard to figure out the percentages and really visualise the different boxes on the page.
+I have used the problem solving strategy of looking things up pretty well. I consult Mozilla a lot and the CSS tips and tricks page. I also use the code checker that Udacity recommended, this is very helpful because sometimes I have actually gotten the problem ‘right’, but it isn’t loading correctly because there is a mistake in my code.
